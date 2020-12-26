@@ -1,0 +1,10 @@
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\bin\Debug\PiscandoLabel.exe.config
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\bin\Debug\PiscandoLabel.exe
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\bin\Debug\PiscandoLabel.pdb
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.Form1.resources
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.Properties.Resources.resources
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.exe
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.pdb
+D:\Documentos\Visual Studio 2019\Projects\PiscandoLabel\PiscandoLabel\obj\Debug\PiscandoLabel.csprojAssemblyReference.cache
